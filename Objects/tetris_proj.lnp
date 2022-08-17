@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\tetris_proj" 
+PRINT(".\Listings\tetris_proj.m51") RAMSIZE(256) 
